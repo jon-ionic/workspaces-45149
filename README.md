@@ -6,7 +6,8 @@
 # Monorepo Example
 
 Create a new npm project:
-$ npm init
+
+`$ npm init`
 
 Add the following to your package.json:
 ```
