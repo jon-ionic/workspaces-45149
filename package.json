@@ -1,0 +1,14 @@
+{
+  "name": "workspaces-45149",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "workspaces": [
+    "packages/example1"
+  ],
+  "author": "",
+  "license": "ISC"
+}
